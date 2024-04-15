@@ -19,7 +19,7 @@
   
   <hr>
 
-  # TCC-IFSP Pirituba (Read'n Play)
+  # TCC-IFSP Pirituba 2023 (Read'n Play)
 
   <ul>
     <li>Link do TCC desenvolvido para a conclusão do curso de Gracuação em Análise e Desenvolvimento de Sistemas, pelo Instituto Federal de Pirituba no ano de 2023</li>
