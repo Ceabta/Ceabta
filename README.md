@@ -16,5 +16,13 @@
   <a href="https://www.linkedin.com/in/leonardo-cesário-734279206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/Ceabta/Ceabta/blob/output/github-contribution-grid-snake.svg)
- 
+  
+  <hr>
+
+  # TCC-IFSP Pirituba (Read'n Play)
+
+  <ul>
+    <li>Link do TCC desenvolvido para a conclusão do curso de Gracuação em Análise e Desenvolvimento de Sistemas, pelo Instituto Federal de Pirituba no ano de 2023</li>
+  </ul>
+  🔗https://github.com/A-Marvulle/readnplay
 </div>
