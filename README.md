@@ -7,7 +7,8 @@
   <img align="center" alt="Ceabta-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ceabta-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ceabta-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ceabta-CSS" height="30" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/SQL%20Server.svg">
+  <img align="center" alt="Ceabta-SQL-Server" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
+          
 </div>
   
   ##
