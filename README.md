@@ -1,6 +1,10 @@
 <h1 align="center">Olá, eu sou o Leonardo Cesário! 👋</h1>
 
 <p align="center">
+  “Apesar de tudo, ainda é você”
+</p>
+
+<p align="center">
   Desenvolvedor de Software formado em Análise e Desenvolvimento de Sistemas pelo IFSP Pirituba.<br>
   Apaixonado por tecnologia, com experiência em desenvolvimento web e mobile.
 </p>
